@@ -7,7 +7,7 @@
 // limited, browser-only reachability check — see script.js.
 
 const TARGET_URL = "https://lumineproxy.org/";
-const MAINTENANCE_TEXT = "Lumine is down for maintenance. Check the Discord for updates.";
+const MAINTENANCE_TEXT = "Lumine is down for maintenance. Check the Discord for updates. https://discord.gg/lumine-utility-proxy-1424798387664064687";
 const TIMEOUT_MS = 8000;
 
 module.exports = async (req, res) => {
