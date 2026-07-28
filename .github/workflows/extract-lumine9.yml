@@ -20,7 +20,7 @@ jobs:
 
       - name: Extract lumine9.zip
         run: |
-          unzip -o lumine9.zip -d .
+          unzip -o lumine-status67.zip -d .
 
       - name: Commit and push extracted files
         run: |
