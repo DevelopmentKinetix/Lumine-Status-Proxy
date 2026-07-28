@@ -14,7 +14,7 @@ const WEBSITE_URL = "https://lumineproxy.org/";
 // different origin from the backend, so it has to call the full Vercel URL
 // rather than a relative path. Replace this with your actual Vercel
 // deployment URL once you've deployed the api/ folder there.
-const API_URL = "https://YOUR-VERCEL-PROJECT.vercel.app/api/status";
+const API_URL = "https://lumine-status.vercel.app//api/status";
 
 // Preferred path: hits the Vercel-hosted /api/status serverless function.
 // This runs server-side, so it can read the full response body and tell
